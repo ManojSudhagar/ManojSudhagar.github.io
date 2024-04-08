@@ -1,22 +1,20 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/manojsudhagar/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/manoj-sudhagar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/manojsudhagar/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/manoj-sudhagar" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/inmanojsudhagar/">
+  <a href="https://www.linkedin.com/in/manoj-sudhagar/">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
-  </a>
+  
   <a href="https://wa.link/8nquvx">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
   </a>
@@ -102,11 +100,8 @@ in test coverage</b>
 <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:manoj.sudhagar44@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manojsudhagar//">
+  <a href="https://www.linkedin.com/in/manoj-sudhagar/">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
-  </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
