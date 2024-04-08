@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/manojsudhagar/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/manojsudhagar/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/inmanojsudhagar/">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
@@ -99,10 +99,10 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:manoj.sudhagar44@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
+  <a href="https://www.linkedin.com/in/manojsudhagar//">
     <img src="https://raw.githubusercontent.com/ManojSudhagar/ManojSudhagar.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://instagram.com/tech_with_jatin">
